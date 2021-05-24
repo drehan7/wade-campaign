@@ -1,0 +1,34 @@
+@import url("https://fonts.googleapis.com/css2?family=Pattaya&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Mate+SC&display=swap");
+
+footer {
+  border-top: 2px solid black;
+}
+
+header {
+  border-bottom: 2px solid black;
+}
+
+.heading {
+  font-family: "Mate SC", sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.quote-container {
+  font-family: "Pattaya", sans-serif;
+}
+
+.subtext {
+  font-family: "Mate SC", sans-serif;
+}
+
+/* Site colors */
+
+/* CSS HEX */
+--titanium-yellow: #f3e623ff;
+--black: #000000ff;
+--white: #ffffffff;
+--prussian-blue: #003066ff;
+--selective-yellow: #f8b600ff;
+--orange-web: #ffa300ff;

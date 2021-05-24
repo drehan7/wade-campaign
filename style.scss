@@ -1,11 +1,12 @@
 @import url("https://fonts.googleapis.com/css2?family=Pattaya&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Mate+SC&display=swap");
 
+footer {
+  border-top: 2px solid black;
+}
+
 header {
   border-bottom: 2px solid black;
-}
-.quote-container {
-  font-family: "Pattaya", sans-serif;
 }
 
 .heading {
@@ -14,19 +15,10 @@ header {
   font-weight: bold;
 }
 
+.quote-container {
+  font-family: "Pattaya", sans-serif;
+}
+
 .subtext {
   font-family: "Mate SC", sans-serif;
-}
-
-body {
-}
-
-.container {
-}
-
-.HeroContainer {
-}
-
-footer {
-  border-top: 2px solid black;
 }
